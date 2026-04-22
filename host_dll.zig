@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-22 01:28:35.232399200 UTC
+// 2026-04-22 04:48:27.528548200 UTC
 
 pub const cs2_dumper = struct {
     pub const schemas = struct {
@@ -7,13 +7,15 @@ pub const cs2_dumper = struct {
         // Class count: 2
         // Enum count: 0
         pub const host_dll = struct {
-            // Parent: xLLY__
-            // Field count: 0
+            // Parent: None
+            // Field count: 1
             pub const EmptyTestScript = struct {
+                pub const m_hTest: usize = 0x10; // CAnimScriptParam<float32>
             };
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub const CAnimScriptBase = struct {
+                pub const m_bIsValid: usize = 0x8; // bool
             };
         };
     };
