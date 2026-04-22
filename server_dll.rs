@@ -1,12 +1,12 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 02:56:31.754708900 UTC
+// 2026-04-22 01:28:35.232399200 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
 pub mod cs2_dumper {
     pub mod schemas {
         // Module: server.dll
-        // Class count: 943
+        // Class count: 944
         // Enum count: 179
         pub mod server_dll {
             // Alignment: 4
@@ -2180,7 +2180,7 @@ pub mod cs2_dumper {
                 MOVETYPE_CUSTOM = 0xA,
                 MOVETYPE_LAST = 0xB
             }
-            // Parent: xL____
+            // Parent: xLLY__
             // Field count: 0
             pub mod CWeaponNOVA {
             }
@@ -2188,7 +2188,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPointWorldText {
             }
-            // Parent: None
+            // Parent: MNotSaved
             // Field count: 0
             pub mod CAmbientGeneric {
             }
@@ -2196,7 +2196,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CEnvEntityMaker {
             }
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub mod CPulseGraphInstance_GameBlackboard {
             }
@@ -2228,7 +2228,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CFogTrigger {
             }
-            // Parent: None
+            // Parent: server
             // Field count: 0
             pub mod CInfoTeleportDestination {
             }
@@ -2240,7 +2240,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CCSPlayer_PingServices {
             }
-            // Parent: None
+            // Parent: server
             // Field count: 0
             pub mod CHEGrenade {
             }
@@ -2329,7 +2329,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPulse_ResumePoint {
             }
-            // Parent: None
+            // Parent: xLLY__
             // Field count: 0
             pub mod CTriggerFan {
             }
@@ -2337,7 +2337,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPhysHingeAlias_phys_hinge_local {
             }
-            // Parent: xL____
+            // Parent: None
             // Field count: 0
             pub mod CLogicCase {
             }
@@ -2357,7 +2357,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CWeaponBizon {
             }
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub mod CGamePlayerZone {
             }
@@ -2373,7 +2373,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPulseCell_PlaySequence {
             }
-            // Parent: _
+            // Parent: None
             // Field count: 0
             pub mod CInferno {
             }
@@ -2409,7 +2409,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CCSPlayer_UseServices {
             }
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub mod CWeaponAWP {
             }
@@ -2433,7 +2433,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CCSBot {
             }
-            // Parent: None
+            // Parent: PreloaderGameSystem_
             // Field count: 0
             pub mod CHandleTest {
             }
@@ -2441,7 +2441,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CLogicNPCCounter {
             }
-            // Parent: None
+            // Parent: xLLY__
             // Field count: 0
             pub mod CCSPlayer_RadioServices {
             }
@@ -2481,15 +2481,15 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CTestPulseIOAPI {
             }
-            // Parent: None
+            // Parent: server
             // Field count: 0
             pub mod CCSWeaponBaseShotgun {
             }
-            // Parent: None
+            // Parent: H____H_____________
             // Field count: 0
             pub mod CPrecipitationVData {
             }
-            // Parent: None
+            // Parent: MOVELINEAR_AUTHORED_AT_START_POSITION
             // Field count: 0
             pub mod CFuncMoveLinear {
             }
@@ -2505,7 +2505,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CScriptItem {
             }
-            // Parent: None
+            // Parent: xLLY__
             // Field count: 0
             pub mod CDynamicPropAlias_prop_dynamic_override {
             }
@@ -2541,7 +2541,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CSmokeGrenade {
             }
-            // Parent: xL____
+            // Parent: xLLY__
             // Field count: 0
             pub mod CBaseCombatCharacter {
             }
@@ -2581,7 +2581,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CGamePlayerEquip {
             }
-            // Parent: server
+            // Parent: xLLY__
             // Field count: 0
             pub mod CPointEntityFinder {
             }
@@ -2626,7 +2626,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CRenderComponent {
             }
-            // Parent: xL____
+            // Parent: xLLY__
             // Field count: 0
             pub mod CWaterBullet {
             }
@@ -2780,7 +2780,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod COmniLight {
             }
-            // Parent: None
+            // Parent: xLLY__
             // Field count: 0
             pub mod CTriggerVolume {
             }
@@ -2831,7 +2831,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPulseCell_Value_Gradient {
             }
-            // Parent: xL____
+            // Parent: None
             // Field count: 0
             pub mod CParticleSystem {
             }
@@ -2878,7 +2878,7 @@ pub mod cs2_dumper {
             pub mod PulseNodeDynamicOutflows_t__DynamicOutflow_t {
                 pub const : usize = 0x0; // 
             }
-            // Parent: None
+            // Parent: server
             // Field count: 0
             pub mod CItemAssaultSuit {
             }
@@ -2902,7 +2902,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CWeaponNegev {
             }
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub mod CWeaponElite {
             }
@@ -2922,7 +2922,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod FilterHealth {
             }
-            // Parent: None
+            // Parent: server
             // Field count: 0
             pub mod CCSSprite {
             }
@@ -2938,7 +2938,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPulseCell_Inflow_GraphHook {
             }
-            // Parent: None
+            // Parent: server
             // Field count: 0
             pub mod CScriptNavBlocker {
             }
@@ -2954,7 +2954,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPathSimpleAPI {
             }
-            // Parent: server
+            // Parent: _
             // Field count: 0
             pub mod CCSObserverPawn {
             }
@@ -3004,7 +3004,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CEconEntity {
             }
-            // Parent: None
+            // Parent: xLLY__
             // Field count: 0
             pub mod CTankTargetChange {
             }
@@ -3028,7 +3028,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CLogicDistanceAutosave {
             }
-            // Parent: _i____
+            // Parent: ___J__
             // Field count: 0
             pub mod CLogicBranch {
             }
@@ -3056,7 +3056,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CSoundEventPathCornerEntity {
             }
-            // Parent: xL____
+            // Parent: xLLY__
             // Field count: 0
             pub mod CCSPlayerBase_CameraServices {
             }
@@ -3068,7 +3068,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CDynamicNavConnectionsVolume {
             }
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub mod CConstraintAnchor {
             }
@@ -3080,11 +3080,11 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CCSPlayerPawn {
             }
-            // Parent: _
+            // Parent: MEntityAllowsPortraitWorldSpawn
             // Field count: 0
             pub mod CEnvLightProbeVolume {
             }
-            // Parent: None
+            // Parent: xLLY__
             // Field count: 0
             pub mod SpawnPoint {
             }
@@ -3116,7 +3116,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPlayer_ObserverServices {
             }
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub mod CCashStack {
             }
@@ -3173,11 +3173,11 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPhysTorque {
             }
-            // Parent: None
+            // Parent: xLLY__
             // Field count: 0
             pub mod CMultiSource {
             }
-            // Parent: None
+            // Parent: server
             // Field count: 0
             pub mod CBaseCSGrenade {
             }
@@ -3189,7 +3189,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPhysicsWire {
             }
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub mod CFuncIllusionary {
             }
@@ -3297,7 +3297,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CChoreoInfoTarget {
             }
-            // Parent: xL____
+            // Parent: xLLY__
             // Field count: 0
             pub mod CTonemapController2 {
             }
@@ -3337,7 +3337,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CCSPlayer_BulletServices {
             }
-            // Parent: xL____
+            // Parent: xLLY__
             // Field count: 0
             pub mod CSkyCamera {
             }
@@ -3406,7 +3406,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CLogicMeasureMovement {
             }
-            // Parent: None
+            // Parent: server
             // Field count: 0
             pub mod CC4 {
             }
@@ -3418,7 +3418,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CDynamicPropAlias_cable_dynamic {
             }
-            // Parent: None
+            // Parent: server
             // Field count: 0
             pub mod CCSObserver_CameraServices {
             }
@@ -3454,7 +3454,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CRuleEntity {
             }
-            // Parent: xL____
+            // Parent: None
             // Field count: 0
             pub mod CPhysThruster {
             }
@@ -3474,11 +3474,11 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CEntityComponent {
             }
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub mod CBasePlatTrain {
             }
-            // Parent: None
+            // Parent: server
             // Field count: 0
             pub mod CPointTeleport {
             }
@@ -3540,7 +3540,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CWeaponMAC10 {
             }
-            // Parent: xL____
+            // Parent: xLLY__
             // Field count: 0
             pub mod CFuncLadder {
             }
@@ -3556,7 +3556,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CItem {
             }
-            // Parent: xL____
+            // Parent: None
             // Field count: 0
             pub mod CTriggerPush {
             }
@@ -3633,7 +3633,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CFilterAttributeInt {
             }
-            // Parent: MPropertyAttributeSuggestionName
+            // Parent: None
             // Field count: 0
             pub mod CKeepUpright {
             }
@@ -3665,7 +3665,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPhysLength {
             }
-            // Parent: xL____
+            // Parent: xLLY__
             // Field count: 0
             pub mod CTeam {
             }
@@ -3686,7 +3686,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPhysicsPropRespawnable {
             }
-            // Parent: _
+            // Parent: None
             // Field count: 0
             pub mod CEnvBeam {
             }
@@ -3814,7 +3814,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CCSGO_TeamPreviewCharacterPosition {
             }
-            // Parent: ______
+            // Parent: _F_J__
             // Field count: 0
             pub mod CGameRulesProxy {
             }
@@ -3846,7 +3846,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CBaseModelEntityAPI {
             }
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub mod CScriptTriggerMultiple {
             }
@@ -3862,7 +3862,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CCSPlayerController_DamageServices {
             }
-            // Parent: None
+            // Parent: server
             // Field count: 0
             pub mod CEnvCombinedLightProbeVolumeAlias_func_combined_light_probe_volume {
             }
@@ -3896,7 +3896,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CChangeLevel {
             }
-            // Parent: xL____
+            // Parent: server
             // Field count: 0
             pub mod CBaseButton {
             }
@@ -3941,7 +3941,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CFogVolume {
             }
-            // Parent: MGetKV3ClassDefaults
+            // Parent: None
             // Field count: 0
             pub mod CFuncRotating {
             }
@@ -3985,7 +3985,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPulseCell_Inflow_ObservableVariableListener {
             }
-            // Parent: xL____
+            // Parent: xLLY__
             // Field count: 0
             pub mod CFuncMonitor {
             }
@@ -3997,7 +3997,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CGunTarget {
             }
-            // Parent: xL____
+            // Parent: xLLY__
             // Field count: 0
             pub mod CSoundEventConeEntity {
             }
@@ -4009,7 +4009,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CFilterMultipleAPI {
             }
-            // Parent: xL____
+            // Parent: xLLY__
             // Field count: 0
             pub mod CDecoyProjectile {
             }
@@ -4057,7 +4057,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CHEGrenadeProjectile {
             }
-            // Parent: _
+            // Parent: server
             // Field count: 0
             pub mod CTriggerGravity {
             }
@@ -4065,7 +4065,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CCollisionProperty {
             }
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub mod CWeaponGalilAR {
             }
@@ -4081,7 +4081,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CCSWeaponBaseGun {
             }
-            // Parent: None
+            // Parent: MPropertyFriendlyName
             // Field count: 0
             pub mod CEnableMotionFixup {
             }
@@ -4110,7 +4110,7 @@ pub mod cs2_dumper {
             pub mod PulseSelectorOutflowList_t {
                 pub const : usize = 0x0; // 
             }
-            // Parent: _
+            // Parent: None
             // Field count: 0
             pub mod CFilterContext {
             }
@@ -4155,7 +4155,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CCSGO_TeamIntroCounterTerroristPosition {
             }
-            // Parent: xL____
+            // Parent: xLLY__
             // Field count: 0
             pub mod CRagdollProp {
             }
@@ -4163,7 +4163,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CScriptComponent {
             }
-            // Parent: None
+            // Parent: xLLY__
             // Field count: 0
             pub mod CFuncTrain {
             }
@@ -4187,7 +4187,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CBuyZone {
             }
-            // Parent: None
+            // Parent: xLLY__
             // Field count: 0
             pub mod CInfoChoreoAnchor {
             }
@@ -4251,11 +4251,11 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CEffectData {
             }
-            // Parent: _
+            // Parent: None
             // Field count: 0
             pub mod CEntityDissolve {
             }
-            // Parent: xL____
+            // Parent: server
             // Field count: 0
             pub mod CCSGameRules {
             }
@@ -4267,7 +4267,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CBaseCSGrenadeProjectile {
             }
-            // Parent: None
+            // Parent: MPhysPtr
             // Field count: 0
             pub mod CPhysConstraint {
             }
@@ -4283,7 +4283,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CLightComponent {
             }
-            // Parent: server
+            // Parent: xLLY__
             // Field count: 0
             pub mod CCSWeaponBase {
             }
@@ -4327,7 +4327,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPulseCell_Outflow_ListenForAnimgraphTag {
             }
-            // Parent: None
+            // Parent: MNotSaved
             // Field count: 0
             pub mod CBodyComponent {
             }
@@ -4351,7 +4351,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CBaseDMStart {
             }
-            // Parent: xL____
+            // Parent: xLLY__
             // Field count: 0
             pub mod CBaseModelEntity {
             }
@@ -4419,7 +4419,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPlantedC4 {
             }
-            // Parent: None
+            // Parent: RenderGameSystem
             // Field count: 0
             pub mod CEnvSoundscapeProxyAlias_snd_soundscape_proxy {
             }
@@ -4439,7 +4439,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPhysImpact {
             }
-            // Parent: xL____
+            // Parent: xLLY__
             // Field count: 0
             pub mod CBaseEntity {
             }
@@ -4451,7 +4451,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CGameSceneNodeHandle {
             }
-            // Parent: xL____
+            // Parent: xLLY__
             // Field count: 0
             pub mod CMarkupVolumeWithRef {
             }
@@ -4463,7 +4463,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPulseCell_Unknown {
             }
-            // Parent: None
+            // Parent: server
             // Field count: 0
             pub mod CFuncPlatRot {
             }
@@ -4475,11 +4475,11 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CInfoInstructorHintTarget {
             }
-            // Parent: xL____
+            // Parent: None
             // Field count: 0
             pub mod CSpriteAlias_env_glow {
             }
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub mod CFireCrackerBlast {
             }
@@ -4491,7 +4491,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CEnvSky {
             }
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub mod CInfoSpawnGroupLandmark {
             }
@@ -4531,7 +4531,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CEnvBeverage {
             }
-            // Parent: xL____
+            // Parent: xLLY__
             // Field count: 0
             pub mod CPhysMotor {
             }
@@ -4564,7 +4564,7 @@ pub mod cs2_dumper {
             pub mod CPulse_BlackboardReference {
                 pub const : usize = 0x0; // 
             }
-            // Parent: None
+            // Parent: xLLY__
             // Field count: 0
             pub mod CFuncTankTrain {
             }
@@ -4582,9 +4582,13 @@ pub mod cs2_dumper {
             }
             // Parent: None
             // Field count: 0
+            pub mod CCSPlayer_AimPunchServices {
+            }
+            // Parent: None
+            // Field count: 0
             pub mod CRuleBrushEntity {
             }
-            // Parent: xL____
+            // Parent: None
             // Field count: 0
             pub mod CMapVetoPickController {
             }
@@ -4637,7 +4641,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CSprite {
             }
-            // Parent: None
+            // Parent: xLLY__
             // Field count: 0
             pub mod CBaseMoveBehavior {
             }
@@ -4657,7 +4661,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CRotDoor {
             }
-            // Parent: server
+            // Parent: None
             // Field count: 0
             pub mod CPathMover {
             }
@@ -4689,7 +4693,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CEnvWindVolume {
             }
-            // Parent: xL____
+            // Parent: None
             // Field count: 0
             pub mod CFuncElectrifiedVolume {
             }
@@ -4713,7 +4717,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CFlashbangProjectile {
             }
-            // Parent: p_____
+            // Parent: _D_J__
             // Field count: 0
             pub mod CTriggerMultiple {
             }
@@ -4742,7 +4746,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CWeaponCZ75a {
             }
-            // Parent: _
+            // Parent: None
             // Field count: 0
             pub mod CScriptTriggerPush {
             }
@@ -4774,11 +4778,11 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CInfoInstructorHintBombTargetA {
             }
-            // Parent: xL____
+            // Parent: xLLY__
             // Field count: 0
             pub mod CTeamplayRules {
             }
-            // Parent: xL____
+            // Parent: None
             // Field count: 0
             pub mod CScriptTriggerHurt {
             }
@@ -4786,7 +4790,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CCSGO_WingmanIntroCharacterPosition {
             }
-            // Parent: Primary_Mode
+            // Parent: None
             // Field count: 0
             pub mod CWeaponMP9 {
             }
@@ -4839,7 +4843,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CBaseDoor {
             }
-            // Parent: xL____
+            // Parent: None
             // Field count: 0
             pub mod CServerOnlyPointEntity {
             }
@@ -4871,7 +4875,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPlayer_WeaponServices {
             }
-            // Parent: None
+            // Parent: xLLY__
             // Field count: 0
             pub mod CRagdollPropAttached {
             }
@@ -4987,11 +4991,11 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CBaseClientUIEntity {
             }
-            // Parent: expRandom
+            // Parent: None
             // Field count: 0
             pub mod CBreakable {
             }
-            // Parent: xL____
+            // Parent: None
             // Field count: 0
             pub mod CInfoLandmark {
             }
@@ -5041,7 +5045,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPulseCell_LimitCount__Criteria_t {
             }
-            // Parent: xL____
+            // Parent: xLLY__
             // Field count: 0
             pub mod CFuncRotator {
             }
@@ -5053,7 +5057,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CInfoPlayerCounterterrorist {
             }
-            // Parent: xL____
+            // Parent: xLLY__
             // Field count: 0
             pub mod CEnvFade {
             }
@@ -5090,7 +5094,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CBasePropDoor {
             }
-            // Parent: xL____
+            // Parent: xLLY__
             // Field count: 0
             pub mod CLogicBranchList {
             }
@@ -5146,7 +5150,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CInfoTargetServerOnly {
             }
-            // Parent: None
+            // Parent: server
             // Field count: 0
             pub mod CServerRagdollTrigger {
             }
@@ -5162,7 +5166,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CInfoParticleTarget {
             }
-            // Parent: MGetKV3ClassDefaults
+            // Parent: eDoNotNotify
             // Field count: 0
             pub mod CEnvCubemap {
             }
@@ -5178,7 +5182,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CTriggerLerpObject {
             }
-            // Parent: xL____
+            // Parent: xLLY__
             // Field count: 0
             pub mod CPhysicsPropOverride {
             }
@@ -5300,8 +5304,9 @@ pub mod cs2_dumper {
                 pub const : usize = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod modifiedconvars_t {
+                pub const : usize = 0x100; // 
             }
             // Parent: server
             // Field count: 0
@@ -5465,7 +5470,7 @@ pub mod cs2_dumper {
             pub mod PointCameraSettings_t {
                 pub const : usize = 0x0; // 
             }
-            // Parent: xL____
+            // Parent: xLLY__
             // Field count: 0
             pub mod DebugDrawBoneTransforms_t {
             }
@@ -5486,7 +5491,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod dynpitchvol_base_t {
             }
-            // Parent: CONTINUE_TO_APPLY_DAMAGE
+            // Parent: None
             // Field count: 0
             pub mod CStopwatchBase {
             }
@@ -5511,7 +5516,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod RotatorQueueEntry_t {
             }
-            // Parent: Base_entity_with_model
+            // Parent: None
             // Field count: 0
             pub mod CBaseAnimGraphDestructibleParts_GraphController {
             }
@@ -5582,7 +5587,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CWorldCompositionChunkReferenceElement_t {
             }
-            // Parent: MNotSaved
+            // Parent: None
             // Field count: 0
             pub mod CRandStopwatch {
             }
@@ -5599,7 +5604,7 @@ pub mod cs2_dumper {
             pub mod PhysObjectHeader_t {
                 pub const : usize = 0x0; // 
             }
-            // Parent: _f____
+            // Parent: 0__J__
             // Field count: 0
             pub mod CSimpleStopwatch {
             }
